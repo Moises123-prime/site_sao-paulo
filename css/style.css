@@ -182,7 +182,7 @@ ol {
 }
 
 /*FROMATAÇÃO DA TABELA NA PAGINA BAIRROS*/
-.tabela1 {
+.tabela {
   border-collapse: separate;    /*Modo de espaçamento entre as celulas*/
   width: 100%;
   
